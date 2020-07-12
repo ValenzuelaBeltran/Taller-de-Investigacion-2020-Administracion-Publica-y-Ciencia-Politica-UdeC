@@ -10,4 +10,4 @@ La ayudante de este taller es Natalia Riquelme Sanhueza
 
 Profesor inviatdo: Sergio Toro Maureira
 
-Invitados: por confirmar. 
+Invitados: por confirmar. # ValenzuelaBeltran.github.io

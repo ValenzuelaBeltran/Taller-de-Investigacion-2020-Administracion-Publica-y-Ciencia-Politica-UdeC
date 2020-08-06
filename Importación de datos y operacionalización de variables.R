@@ -254,11 +254,12 @@ names(df_sinim_excel_v2)
 #' **Limpieza y transformación de datos para operacionalizar nuestras variables de la hipótesis**
 
 #' Durante el semestre, ya hemos aprendido a limpiar y transformar los datos que importamos.
-#' #' Ahora, con una base de datos real, vamos a limpiar y transformar en función de una hipótesis.
+#' Ahora, con una base de datos real, vamos a limpiar y transformar en función de una hipótesis.
 
 #' Limpiamos la base de datos: nos damos cuenta que la base de datos llamada df_cead_excel_v2 existe
-#' una columna con el nombre "...1" y tenemos que asignar un nombre. y Además, nos damos cuenta que 
-#' en las columnas todas las variables son años. Por tanto, según el principio de limpieza de datos
+#' una columna con el nombre "...1". Por lo tanto, vamos a asignar un nombre. 
+#'
+#' Además, nos damos cuenta que en las columnas todas las variables son años. Por tanto, y según el principio de limpieza de datos,
 #' vamos a transformarla y distribuir los valores por filas de año y comuna.
 
 df_cead_excel_v4 <- df_cead_excel_v2 %>% 
